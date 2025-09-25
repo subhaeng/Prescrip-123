@@ -30,12 +30,13 @@ With a clean and intuitive interface, Prescripto simplifies the process of conne
 
 🔒 Secure & Reliable – Designed with a focus on trust and accessibility.
 
-🏥 Use Case
 
-Prescripto is ideal for:
 
 Patients seeking quick and hassle-free doctor appointments.
 
 Clinics and hospitals aiming to digitize their appointment booking process.
 
-Healthcare startups focusing on patient-doctor engagement.
+Healthcare startups focu<img width="1911" height="856" alt="Screenshot 2025-09-25 232403" src="https://github.com/user-attachments/assets/5e337406-5c9c-402e-8f85-c6cad3499631" />
+sing on patient-doctor engagement.
+<img width="1911" height="856" alt="Screenshot 2025-09-25 232403" src="https://github.com/user-attachments/assets/c86e3a52-fe3d-42b3-af66-00ca0e43173c" />
+<img width="1884" height="852" alt="Screenshot 2025-09-25 232452" src="https://github.com/user-attachments/assets/f5471e34-41ec-4069-9fcf-1729171d09d0" />
