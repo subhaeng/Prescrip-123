@@ -36,7 +36,4 @@ Patients seeking quick and hassle-free doctor appointments.
 
 Clinics and hospitals aiming to digitize their appointment booking process.
 
-Healthcare startups focus<img width="1911" height="856" alt="Screenshot 2025-09-25 232403" src="https://github.com/user-attachments/assets/5e337406-5c9c-402e-8f85-c6cad3499631" />
-sing on patient-doctor engagement.
-<img width="1911" height="856" alt="Screenshot 2025-09-25 232403" src="https://github.com/user-attachments/assets/c86e3a52-fe3d-42b3-af66-00ca0e43173c" />
 
